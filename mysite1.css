@@ -6,7 +6,7 @@ body{
 }
 header{
     background: rgb(46, 39, 39);
-    padding: 20px 40px;
+    padding: 30px;
     box-shadow: 0 2px 8px;
     border-radius: 8px;
 }
@@ -105,4 +105,9 @@ nav{
     color: white;
     border-radius: 8px;
     border: 1px solid transparent;
+}
+.meme img{
+    width: 50%;
+    height: 100vh;
+    aspect-ratio: 16 / 9;
 }
