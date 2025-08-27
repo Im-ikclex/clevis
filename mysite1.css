@@ -1,7 +1,12 @@
 body{
-    background-image: URL(bg.jpg);
+    background-image: URL(bg\ port.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-style: italic;
+    color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
 header{

@@ -1,0 +1,30 @@
+
+form{
+    justify-content: center;
+    *{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(rgb(141, 197,250), rgb(228,131, 4));
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+}
+     background: linear-gradient(rgb(141, 197,250), rgb(228,131, 4));
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    height: auto;
+    width: 25em;
+    background-color: white;
+    border-radius: 10px;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 1px 2px 5px 5px rgb(0, 0, 0.5);
+
+}
