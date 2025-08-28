@@ -113,6 +113,6 @@ nav{
 }
 .meme img{
     width: 50%;
-    height: 100vh;
+    height: 50%;
     aspect-ratio: 16 / 9;
 }

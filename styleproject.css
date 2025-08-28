@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    width: 100%;
+    height: auto;
+}
+
+aside{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+aside article{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px 2px black;
+}
+
+aside article p{
+    padding: .5em 1em 1em .5em;
+}
+
+aside article div img{
+    width: 90%;
+    height: auto;
+    margin: 0.4em;
+    border-radius: 10px;
+}
